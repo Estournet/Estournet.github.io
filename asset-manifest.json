@@ -1,23 +1,18 @@
 {
   "files": {
-    "static/js/0.70c17df6.chunk.js": "/static/js/0.70c17df6.chunk.js",
-    "static/js/0.70c17df6.chunk.js.map": "/static/js/0.70c17df6.chunk.js.map",
-    "main.js": "/static/js/main.111e135d.chunk.js",
-    "main.js.map": "/static/js/main.111e135d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f6a44e67.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f6a44e67.js.map",
-    "static/js/3.52c452fb.chunk.js": "/static/js/3.52c452fb.chunk.js",
-    "static/js/3.52c452fb.chunk.js.map": "/static/js/3.52c452fb.chunk.js.map",
-    "static/js/4.7688a46f.chunk.js": "/static/js/4.7688a46f.chunk.js",
-    "static/js/4.7688a46f.chunk.js.map": "/static/js/4.7688a46f.chunk.js.map",
-    "static/js/5.5ac7922f.chunk.js": "/static/js/5.5ac7922f.chunk.js",
-    "static/js/5.5ac7922f.chunk.js.map": "/static/js/5.5ac7922f.chunk.js.map",
-    "static/js/6.5f04dd50.chunk.js": "/static/js/6.5f04dd50.chunk.js",
-    "static/js/6.5f04dd50.chunk.js.map": "/static/js/6.5f04dd50.chunk.js.map",
+    "main.js": "/static/js/main.9e8f2111.chunk.js",
+    "main.js.map": "/static/js/main.9e8f2111.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.644ee343.js",
+    "runtime-main.js.map": "/static/js/runtime-main.644ee343.js.map",
+    "static/js/2.188fd3e4.chunk.js": "/static/js/2.188fd3e4.chunk.js",
+    "static/js/2.188fd3e4.chunk.js.map": "/static/js/2.188fd3e4.chunk.js.map",
+    "static/js/3.2a379027.chunk.js": "/static/js/3.2a379027.chunk.js",
+    "static/js/3.2a379027.chunk.js.map": "/static/js/3.2a379027.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f6733ce831f845aaa4c7b47c8cc31dc4.js": "/precache-manifest.f6733ce831f845aaa4c7b47c8cc31dc4.js",
+    "precache-manifest.b767fd401d81f4a5306f69adaa31a1af.js": "/precache-manifest.b767fd401d81f4a5306f69adaa31a1af.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/3.52c452fb.chunk.js.LICENSE.txt": "/static/js/3.52c452fb.chunk.js.LICENSE.txt",
+    "static/js/2.188fd3e4.chunk.js.LICENSE.txt": "/static/js/2.188fd3e4.chunk.js.LICENSE.txt",
+    "static/media/author_picture.jpg": "/static/media/author_picture.5fd63248.jpg",
     "static/media/author_picture.png": "/static/media/author_picture.a3755efb.png",
     "static/media/ecarlate_banner.png": "/static/media/ecarlate_banner.3aa82718.png",
     "static/media/ecarlate_logo.png": "/static/media/ecarlate_logo.ca105e9f.png",
@@ -39,8 +34,8 @@
     "static/media/screenshot_peche_4.png": "/static/media/screenshot_peche_4.2702b712.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6a44e67.js",
-    "static/js/3.52c452fb.chunk.js",
-    "static/js/main.111e135d.chunk.js"
+    "static/js/runtime-main.644ee343.js",
+    "static/js/2.188fd3e4.chunk.js",
+    "static/js/main.9e8f2111.chunk.js"
   ]
 }
